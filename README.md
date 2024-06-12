@@ -55,6 +55,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+## Projects
+
+### 1. Transport Fleet Management
+**Duration:** July 2023 – Aug 2023  
+**Description:** Gathered and analyzed transport log data, extracting insights, then visualized on a web dashboard. Designed a mobile app with location tracking and attendance functionalities.  
+**Tech Used:** Python, LLM, Android Studio, PowerBi, Appsheets
+
+### 2. Food Waste Management using Computer Vision
+**Duration:** Sep 2023 – Jan 2024  
+**Description:** Analyzed data with object detection and estimated food weight, and developed a prediction model. Engaged in collaboration with Capgemini's Vice President throughout the entire project.  
+**Tech Used:** Yolov8, TensorFlow, PyTorch, R-CNN, Image Processing
+
+### 3. Predicting Accident-Prone Locations on Indian Roads
+**Duration:** May 2023 – July 2023  
+**Description:** Developed an innovative machine learning project predicting accident-prone locations on Indian roads, demonstrating a proactive approach to road safety.  
+**Tech Used:** GIS Tools – QGIS, Kaggle, PowerBi
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
