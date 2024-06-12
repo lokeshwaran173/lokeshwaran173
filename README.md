@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Lokeshwaran from Chennai<br><br>- 🔭 I’m pursuing B.Tech Artificial Intelligence and Data Science<br>- 📚 I'm currently learning Machine Learning algorithms<br>- ⚡ </p>
+
 <p align="left"> I'm Lokeshwaran from Chennai</p>
 
 - 🔭 I’m pursuing B.Tech Artificial Intelligence and Data Science
