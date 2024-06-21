@@ -81,7 +81,7 @@
 **Description:** Developed an innovative machine learning project predicting accident-prone locations on Indian roads, demonstrating a proactive approach to road safety.  
 **Tech Used:** GIS Tools – QGIS, Kaggle, PowerBi
 
-### 3.  Medicinal Plants Identification
+### 4.  Medicinal Plants Identification
 **Duration:** Mar 2024 – Apr 2024  
 **Description:** Trained the model by using plants dataset and Developed image processing software using machine learning to identify medicinal plants.  
 **Tech Used:** Machine Learning, TensorFlow, OpencV, Flask, Bootstrap)
