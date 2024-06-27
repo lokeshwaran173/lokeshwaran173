@@ -98,10 +98,14 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshwaran173&show_icons=true&locale=en&theme=tokyonight" alt="lokeshwaran173" /></p>
 
 
-</div>
+# Your GitHub Profile
+
+## GitHub Profile Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lokeshwaran173)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
-<img src="https://raw.githubusercontent.com/lokeshwaran173/lokeshwaran173/output/snake.svg" alt="Snake animation" />
+## Snake Animation
+
+![snake animation](https://github.com/lokeshwaran173/lokeshwaran173/blob/output/github-contribution-grid-snake.svg)
 
 ###
