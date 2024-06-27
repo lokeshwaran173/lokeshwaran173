@@ -99,6 +99,7 @@
 
 
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lokeshwaran173)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 <img src="https://raw.githubusercontent.com/lokeshwaran173/lokeshwaran173/output/snake.svg" alt="Snake animation" />
