@@ -1,8 +1,8 @@
 [![Blog](https://img.shields.io/badge/-Lokeshwaran173-black?style=flat&logo=github&labelColor=black)](https://github.com/lokeshwaran173)
 <div align="center">
   
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-![image](https://user-images.githubusercontent.com/80147472/136589569-3e7eb933-8028-4adb-a902-f5cd16629ca8.gif)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/80147472/136589569-3e7eb933-8028-4adb-a902-f5cd16629ca8.gif">
+
   
 </div>
 
