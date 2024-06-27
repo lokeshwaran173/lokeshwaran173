@@ -106,6 +106,6 @@
 
 ## Snake Animation
 
-![snake gif](https://github.com/lokeshwaran173/lokeshwaran173/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lokeshwaran173/lokeshwaran173/raw/output/github-contribution-grid-snake.gif)
 
 ###
